@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T12:57:10.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gjWL4IxvLezKBpGK-3dq" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T13:01:42.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uSUCEHAKhS_Ph7DR_mU7" version="24.6.5" type="github">
   <diagram name="Page-1" id="DMbegxKJLnIhKUEGTFba">
     <mxGraphModel dx="4380" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2284,10 +2284,7 @@
         <mxCell id="nIr5uzXca642h1e0xrYo-2147" value="&lt;font face=&quot;Helvetica&quot; color=&quot;#0a488a&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Traiter Commande&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1245.6100000000001" y="3656" width="220.14" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nIr5uzXca642h1e0xrYo-2148" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Page d&#39;ouverture de commande présentant la liste des Commandes effectuées&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1780" width="900" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nIr5uzXca642h1e0xrYo-2149" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Page d&#39;ouverture de commande présentant la liste des Commandes effectuées&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#0000CC;fontColor=#FFFFFF;fillColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="nIr5uzXca642h1e0xrYo-2149" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Liste des choix possibles lors du passage d&#39;une commande&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#0000CC;fontColor=#FFFFFF;fillColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="1010.63" y="3441" width="749.37" height="64.01" as="geometry" />
         </mxCell>
         <mxCell id="nIr5uzXca642h1e0xrYo-2150" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -2304,7 +2301,7 @@
         <mxCell id="nIr5uzXca642h1e0xrYo-2152" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Page de commande simple&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#0000CC;fontColor=#FFFFFF;fillColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="3250.94" y="3438" width="749.37" height="64.01" as="geometry" />
         </mxCell>
-        <mxCell id="nIr5uzXca642h1e0xrYo-2153" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Page de commande sserval&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#0000CC;fontColor=#FFFFFF;fillColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="nIr5uzXca642h1e0xrYo-2153" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Page de commande Serval&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#0000CC;fontColor=#FFFFFF;fillColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="5362.33" y="3427" width="749.37" height="64.01" as="geometry" />
         </mxCell>
         <mxCell id="nIr5uzXca642h1e0xrYo-2154" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Page de commande Spot&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#0000CC;fontColor=#FFFFFF;fillColor=#0000CC;" vertex="1" parent="1">
@@ -3150,6 +3147,9 @@
         </mxCell>
         <mxCell id="nIr5uzXca642h1e0xrYo-2506" value="" style="html=1;dashed=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.calendar;strokeColor=none;fillColor=#CC0000;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="8603.71" y="6458.42" width="25.28" height="25.28" as="geometry" />
+        </mxCell>
+        <mxCell id="nIr5uzXca642h1e0xrYo-2507" value="&lt;b style=&quot;font-size: 17px; background-color: rgb(0, 0, 204);&quot;&gt;Page d&#39;ouverture présentant la liste des Commandes effectuées&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#0000CC;fontColor=#FFFFFF;fillColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1763.99" width="749.37" height="64.01" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
