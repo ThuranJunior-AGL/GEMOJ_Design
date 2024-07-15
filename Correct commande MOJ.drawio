@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T13:14:17.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_FcTQrmmkqhJhZa0DMeu" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T13:15:11.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PvCrpawGh3zVpNVyphna" version="24.6.5" type="github">
   <diagram name="Page-1" id="DMbegxKJLnIhKUEGTFba">
-    <mxGraphModel dx="6770" dy="2130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4380" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2287,15 +2287,20 @@
         <mxCell id="nIr5uzXca642h1e0xrYo-2149" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Liste des choix possibles lors du passage d&#39;une commande&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#0000CC;fontColor=#FFFFFF;fillColor=#0000CC;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="1010.63" y="3441" width="749.37" height="64.01" as="geometry" />
         </mxCell>
-        <mxCell id="nIr5uzXca642h1e0xrYo-2150" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;" edge="1" parent="1">
+        <mxCell id="nIr5uzXca642h1e0xrYo-2150" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="vO5xYpJZGSEfd0rvzqth-119">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1430" y="3060" as="sourcePoint" />
             <mxPoint x="1430" y="3430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2420" y="2348" />
+              <mxPoint x="2420" y="3148" />
+              <mxPoint x="1430" y="3148" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nIr5uzXca642h1e0xrYo-2151" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Après clic sur le bouton &quot;Passer une commande&quot;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;" vertex="1" connectable="0" parent="nIr5uzXca642h1e0xrYo-2150">
           <mxGeometry x="-0.2098" y="4" relative="1" as="geometry">
-            <mxPoint x="194" y="12" as="offset" />
+            <mxPoint x="-241" y="88" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nIr5uzXca642h1e0xrYo-2152" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Page de commande simple&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#0000CC;fontColor=#FFFFFF;fillColor=#0000CC;fontFamily=Helvetica;" vertex="1" parent="1">
