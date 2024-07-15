@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T13:59:40.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YixC2zWWvVr7ZVzVKk3F" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T14:01:19.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="aX1ZrQrasK-UAELkh-FZ" version="24.6.5" type="github">
   <diagram name="Page-1" id="DMbegxKJLnIhKUEGTFba">
     <mxGraphModel dx="3697" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1006,7 +1006,7 @@
         <mxCell id="nIr5uzXca642h1e0xrYo-178" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#535454&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;DTLM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;align=left;verticalAlign=middle;arcSize=16;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#D6D8D9;strokeColor=#999999;aspect=fixed;container=0;" vertex="1" parent="1">
           <mxGeometry x="3221.945254360465" y="4149.47582385763" width="562.33" height="62.16" as="geometry" />
         </mxCell>
-        <mxCell id="nIr5uzXca642h1e0xrYo-188" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;align=left;verticalAlign=middle;arcSize=16;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeColor=#999999;container=0;" vertex="1" parent="1">
+        <mxCell id="nIr5uzXca642h1e0xrYo-188" value="&lt;span style=&quot;color: rgb(69, 69, 69); font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TRANSPOT DE BOIS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;align=left;verticalAlign=middle;arcSize=16;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeColor=#999999;container=0;" vertex="1" parent="1">
           <mxGeometry x="3806.2752543604647" y="4152.134117514346" width="562.33" height="59.995481343283586" as="geometry" />
         </mxCell>
         <mxCell id="nIr5uzXca642h1e0xrYo-265" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;align=left;verticalAlign=middle;arcSize=16;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;strokeColor=#999999;container=0;" vertex="1" parent="1">
